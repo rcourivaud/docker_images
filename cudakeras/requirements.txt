@@ -1,0 +1,17 @@
+dask
+bokeh
+plotly
+pandas
+seaborn
+pymongo
+jupyter
+path.py
+click
+matplotlib
+odo
+toolz
+scikit-learn
+scikit-image
+keras
+jupyterlab
+opencv
